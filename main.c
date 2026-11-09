@@ -5,7 +5,7 @@ int main(void) {
     int result;
     scanf("%d", &input_val);
     result = (int)(input_val * 1.08);
-    printf("%d\n", reault);
+    printf("%d\n", result);
     
     return 0;
 }
